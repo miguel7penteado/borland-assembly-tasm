@@ -1,7 +1,7 @@
                         # - TURBO ASSEMBLER 5.0
                         ### original TSM_INST.TXT
 
-![referencia](https://log.vexation.ca/2019/01/getting-set-up/)
+[referencia](https://log.vexation.ca/2019/01/getting-set-up/)
 
 ## This file contains details on how to install the TASM 5.0 package.
 
