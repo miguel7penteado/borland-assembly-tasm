@@ -9,6 +9,8 @@
 
 ### SECTION 1     System Requirements  -   Full Installation
 
+![](imagens/tasm5_instalar.jpg)
+
 ### SECTION 2     Installing TASM 5.0
               A)   Pre-Installation Notes
                    1)   Backup Disks
